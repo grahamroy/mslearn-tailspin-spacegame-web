@@ -2,7 +2,8 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'DESKTOP-8NNP9DK'
+  name: 'DESKTOP-8NNP9DK'
+  vmImage: 'ubuntu-20.04'
   demands:
   - npm
 
