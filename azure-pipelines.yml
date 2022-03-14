@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'DESKTOP-8NNP9DK'
+  name: 'Default'
   demands:
   - npm
 
